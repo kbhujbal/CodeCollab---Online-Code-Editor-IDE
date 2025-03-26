@@ -1,13 +1,13 @@
 # CodeCollab - Interactive Code Editor
 
-<div align="center">
-  <img src="./public/CodeCollab Screenshot.png" alt="CodeCollab Screenshot" width="100%">
-</div>
+
 
 <details>
   <summary>🖼️ View Screenshot</summary>
   
-  ![CodeCollab Interface](./assets/screenshot.png)
+<div align="center">
+  <img src="./public/CodeCollab Screenshot.png" alt="CodeCollab Screenshot" width="100%">
+</div>
   
 </details>
 
