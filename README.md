@@ -3,13 +3,11 @@
 
 
 <details>
-  <summary>🖼️ View Screenshot</summary>
-  
+  <summary>🖼️ View Screenshot</summary>  
+</details>
 <div align="center">
   <img src="./public/CodeCollab Screenshot.png" alt="CodeCollab Screenshot" width="100%">
 </div>
-  
-</details>
 
 CodeCollab is a modern, real-time collaborative code editor that allows developers to write, share, and execute code in their browser. Built with Next.js, TypeScript, and powered by Convex for real-time collaboration.
 
