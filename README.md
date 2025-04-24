@@ -107,4 +107,3 @@ For support, please open an issue in the GitHub repository or contact me.
 
 ---
 
-Built with ❤️ using Next.js, Convex, and Clerk.
